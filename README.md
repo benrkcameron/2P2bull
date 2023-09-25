@@ -1,2 +1,4 @@
 # 2P2bull
-(2P2,bull)-free k-critical graphs for small k
+All k-vertex-critical (2P_2,bull)-free graphs for small k <= 7.
+
+See PAPER TO BE ADDED for details.
