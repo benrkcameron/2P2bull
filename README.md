@@ -1,5 +1,5 @@
 # 2P2bull
-All k-vertex-critical (2P_2,bull)-free graphs for small k <= 7.
+All k-vertex-critical (2P_2,H)-free graphs for small k <= 7 where H can be banner or bull.
 
 File name convention is {k}crit2p2Bullfree{order}.g6, so 5crit2p2Bullfree10.g6 has 5-vertex-critical (2P_2,bull)-free graphs of order 10.
 
